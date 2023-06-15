@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To CI/CD Pipeline Project</h2>
-			<h3>Docker Deployment</h3>
+			<h3>Docker_Deployment</h3>
 		</div>	
 	</div>
 
